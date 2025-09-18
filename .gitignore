@@ -1,0 +1,35 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs & temp
+*.log
+*.tmp
+tmp/
+cache/
+
+# Big/binary artifacts
+*.pcap
+*.pcapng
+*.zip
+*.7z
+*.gz
+*.xz
+*.iso
+*.img
+*.bin
+*.raw
+*.vmdk
+
+# Results/output
+output/
+results/
+loot/
+reports/
+*.csv
+*.json
+*.html
+screenshots/
+examples/generated/
