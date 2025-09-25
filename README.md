@@ -1,5 +1,5 @@
 # john-bryce-projects
-Automation scripts created during a 10-month, 680 hours cyber security course, each covering a different module.  
+Automation scripts created during a 11-month, 650 hours cyber security course, each covering a different module.  
 Each script is self-contained and intended for **lab** use.
 
 ## Quick start
